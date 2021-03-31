@@ -1,4 +1,4 @@
-# TaskManager
+# Task Manager
 
 A Task Manager application which allows you to CREATE, UPDATE, DELETE, and VIEW tasks.
 
