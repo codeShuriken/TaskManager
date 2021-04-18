@@ -1,6 +1,6 @@
 # Task Manager
 
-A Task Manager application which allows you to CREATE, UPDATE, DELETE, and VIEW tasks.
+A Task Manager application which allows you to CREATE, UPDATE, DELETE, and VIEW tasks. 
 
 ### To Run
 1. Download the project and run it using maven command line.
@@ -9,7 +9,7 @@ A Task Manager application which allows you to CREATE, UPDATE, DELETE, and VIEW 
 4. Register a new account and login using that account.
 5. After logging in, you can create and manage tasks.
 
-### Tools Used
+### Technologies Used
 1. Spring Boot
 2. Spring Security
 3. MySQL
